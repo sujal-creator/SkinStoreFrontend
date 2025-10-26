@@ -3,7 +3,7 @@
 A customized React + Vite ecommerce frontend inspired by SkinStore. Built for portfolio showcase and UI/UX practice.
 
 ## 🚀 Live Demo
-[View the site on Vercel](https://skinstorefrontend.vercel.app)
+[View the site on Vercel]([https://skinstorefrontend.vercel.app](https://skin-store-frontend.vercel.app/))
 
 ## 📦 Tech Stack
 - React
