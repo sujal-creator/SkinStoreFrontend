@@ -1,8 +1,25 @@
-# React + Vite
+# 🛍️ SkinStoreFrontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A customized React + Vite ecommerce frontend inspired by SkinStore. Built for portfolio showcase and UI/UX practice.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[View the site on Vercel](https://skinstorefrontend.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📦 Tech Stack
+- React
+- Vite
+- HTML5, CSS3
+- JavaScript (ES6+)
+
+## 🎨 Features
+- Responsive homepage and product layout
+- Clean UI inspired by ecommerce design
+- Customizable components and styling
+- Fast performance with Vite
+
+## 🛠️ How to Run Locally
+```bash
+git clone https://github.com/sujal-creator/SkinStoreFrontend.git
+cd SkinStoreFrontend
+npm install
+npm run dev
